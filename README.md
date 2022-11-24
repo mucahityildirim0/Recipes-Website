@@ -15,9 +15,8 @@ This is an simply recipes-website project. I use grid, css(var()) with responsiv
 
 ## Screenshots:
 
-![image](https://user-images.githubusercontent.com/72821281/203841988-d5fdb18c-c83e-45c9-a137-dba0880af924.png
-)
-(![image](https://user-images.githubusercontent.com/72821281/203842666-ec8df85f-ea3b-44d6-a4d1-64b0cd8ee9df.png))
-(![image](https://user-images.githubusercontent.com/72821281/203842685-c68c5c07-7e35-45e0-a7a9-942287bd2929.png))
+![image](https://user-images.githubusercontent.com/72821281/203842666-ec8df85f-ea3b-44d6-a4d1-64b0cd8ee9df.png)
+![image](https://user-images.githubusercontent.com/72821281/203843116-12238421-4d77-474c-acd3-5bbd0079d261.png)
+![image](https://user-images.githubusercontent.com/72821281/203842967-c01310bc-d1b9-49c7-8b42-3bfb17078251.png)
 
 
