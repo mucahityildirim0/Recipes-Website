@@ -11,7 +11,7 @@ This is an simply recipes-website project. I use grid, css(var()) with responsiv
 
 
 
-## Demo Link :https://teal-gnome-35bac7.netlify.app/index.html
+##  <a src="https://teal-gnome-35bac7.netlify.app/index.html" target=”_blank” alt="demo link">Demo Link: CLİCK ME </a>
 
 ## Screenshots:
 
